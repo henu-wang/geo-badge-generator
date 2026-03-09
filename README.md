@@ -52,16 +52,25 @@ Result: [![GEO Score](https://img.shields.io/badge/GEO_Score-Check_Now-blue)](ht
 
 Learn more: [What is GEO?](https://geoscoreai.com/blog/what-is-geo) | [GEO vs SEO](https://geoscoreai.com/blog/geo-vs-seo)
 
-## Related Projects
 
-| Project | Description |
-|---------|-------------|
-| [GEOScore](https://geoscoreai.com) | AI search visibility scanner |
-| [Awesome GEO](https://github.com/henu-wang/awesome-geo) | Curated GEO resource list |
-| [GEO Scoring Methodology](https://github.com/henu-wang/geo-scoring-methodology) | Open scoring framework |
-| [GEO Checklist](https://henu-wang.github.io/geo-checklist/) | Interactive checklist |
-| [AI Crawlers Reference](https://henu-wang.github.io/ai-crawlers-reference/) | AI crawler database |
-| [AI Robots.txt Generator](https://github.com/henu-wang/ai-robots-txt-generator) | Generate AI-optimized robots.txt |
+## Related GEO Resources
+
+### Free Tools
+- [GEOScore AI Scanner](https://geoscoreai.com) — Check your website's AI search visibility across 11 signals
+- [AI Robots.txt Generator](https://geoscoreai.com/tools/robots-txt-generator) — Generate optimized robots.txt for AI crawlers
+- [AI Crawler Access Checker](https://geoscoreai.com/tools/ai-crawler-checker) — Verify which AI bots can access your site
+
+### Open Source Projects
+- [awesome-geo](https://github.com/henu-wang/awesome-geo) — Curated list of GEO resources, tools, and guides
+- [geo-scoring-methodology](https://github.com/henu-wang/geo-scoring-methodology) — Open methodology for scoring AI search readiness
+- [ai-robots-txt-generator](https://github.com/henu-wang/ai-robots-txt-generator) — Generate optimized robots.txt for AI crawlers
+- [geo-checklist](https://github.com/henu-wang/geo-checklist) — Interactive pre-launch GEO readiness checklist
+- [ai-crawlers-reference](https://github.com/henu-wang/ai-crawlers-reference) — Complete database of AI search engine crawler user-agents
+- [llms-txt-examples](https://github.com/henu-wang/llms-txt-examples) — Real-world llms.txt implementation examples by industry
+- [geo-config-examples](https://github.com/henu-wang/geo-config-examples) — Ready-to-use AI search optimization configs for popular frameworks
+- [geo-case-studies](https://github.com/henu-wang/geo-case-studies) — Real-world GEO optimization case studies with before/after data
+- [ai-search-readiness-framework](https://github.com/henu-wang/ai-search-readiness-framework) — 11-signal AI search readiness evaluation framework
+
 
 ## License
 
