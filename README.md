@@ -2,6 +2,14 @@
 
 Generate badges for your README to show your website's AI search readiness score.
 
+## Online Tools
+
+Get your score first, then grab your badge — these free tools require no installation:
+
+- **[Full GEO Scan](https://geoscoreai.com)** — Get your AI search readiness score in seconds
+- **[AI Robots.txt Generator](https://geoscoreai.com/tools/robots-txt-generator)** — Generate an optimized robots.txt for AI crawlers
+- **[AI Crawler Access Checker](https://geoscoreai.com/tools/ai-crawler-checker)** — Check if AI search engines can access your site
+
 ## Usage
 
 Add this badge to your README.md:
